@@ -16,7 +16,7 @@ Public Const APP_NAME = "お賃金コストチェッカー"
 Public Const APP_CREATER = "@KotorinChunChun"
 Public Const APP_VERSION = "0.01"
 Public Const APP_UPDATE = "2020/05/09"
-Public Const APP_URL = "https://www.excel-chunchun.com/entry/money-cost-checker"
+Public Const APP_URL = "https://www.excel-chunchun.com/entry/20200509-money-cost-checker"
 
 '--------------------------------------------------
 'アドイン機能実行時
